@@ -1,1 +1,9 @@
-
+{
+	"random": 11,
+	"random float": 54.653,
+	"bool": false,
+	"date": "1986-05-18",
+	"enum": "generator",
+	"firstname": "Benita",
+	"city": "Dongguan"
+}
